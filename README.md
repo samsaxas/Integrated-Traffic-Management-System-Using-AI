@@ -1,6 +1,9 @@
-# Traffic-Management-System-
+# Integrated Traffic Management System Using AI
 
 will be uploaded shortly
 
 
-short description:a full-fledged system containing various detections,ai based traffic light system, traffic routes and much more
+## Short Description
+### A full-fledged system that detects the vehicles and automates the traffic lights.
+### Detect number plate for law enforcement.
+### Introduced a Crime Reporting App which ensures immediate action against any incident.
