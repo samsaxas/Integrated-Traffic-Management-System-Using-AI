@@ -11,4 +11,4 @@ will be uploaded shortly
 
 
 ## License
-This project is licensed under the GNU Affero General Public License v3.0 - see the (LICENSE) file for details.
+This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](https://github.com/samsaxas/Traffic-Management-System-/blob/main/LICENSE.md) file for details.
