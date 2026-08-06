@@ -1,6 +1,7 @@
 # Integrated Traffic Management System Using AI
 
-<img width="1147" height="649" alt="image" src="https://github.com/user-attachments/assets/eabada85-aa4b-4f82-a608-2b12aceedd07" />
+<img width="1097" height="529" alt="image" src="https://github.com/user-attachments/assets/71d77c2c-b2b6-4112-be70-b5f086f1db75" />
+
 
 
 # 🚦 Integrated Traffic Management System Using AI
