@@ -1,7 +1,7 @@
 # ITMSAI — Integrated Traffic Management System Using AI
 
 AI traffic monitoring with adaptive signals, number-plate recognition and a citizen crime-reporting
-hub, in one web application. Based on the AMC Engineering College major-project report (2025-26).
+hub, in one web application. **Based on my College major project (2025-26).**
 
 ## About Version 2
 
