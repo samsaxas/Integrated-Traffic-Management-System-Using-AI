@@ -171,6 +171,7 @@ Screenshots and demonstrations from the three development stages will be maintai
 ## 👩‍💻 Developer
 
 **Samriddhi Saxena**
+
 BE — Computer Science and Engineering (Data Science)  
 
 ---
