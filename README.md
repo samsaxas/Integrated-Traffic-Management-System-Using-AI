@@ -168,6 +168,48 @@ Screenshots and demonstrations from the three development stages will be maintai
 
 ---
 
+## Screenshots & Application Preview
+
+The following screenshots showcase the original ITMSAI application, its interfaces, AI-powered features, traffic management dashboard and Wokwi-based hardware simulation.
+
+### 1. Application Interface
+
+| Screenshot | Description |
+|---|---|
+| [**Home Page**](<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b91fc52f-f093-48b5-962a-82fcd39d76d8" />)
+ | Main application dashboard and navigation. |
+| **User Authentication** | Login and registration interface. |
+
+### 2. AI-Based Traffic Management
+
+| Screenshot | Description |
+|---|---|
+| **Traffic Control Dashboard** | Traffic monitoring dashboard with live vehicle detection and traffic statistics. |
+| **Vehicle Detection & Lane Analysis** | AI-based vehicle detection, lane identification and vehicle counting. |
+| **Adaptive Traffic Signal Control** | Dynamic traffic signal management based on lane-wise traffic conditions. |
+| **Lane Configuration** | Automatic lane proposals and manual lane adjustment. |
+
+### 3. Automatic Number Plate Recognition (ANPR)
+
+| Screenshot | Description |
+|---|---|
+| **ANPR Dashboard** | Interface for uploading and analysing vehicle images and videos. |
+| **Number Plate Detection & Recognition** | Detected number plates with recognised registration numbers. |
+
+### 4. Cyber Crime Hub
+
+| Screenshot | Description |
+|---|---|
+| **Citizen Crime Reporting** | Interface for submitting complaints and uploading evidence. |
+| **Complaint Management** | Complaint tracking and case status management. |
+| **Administrator Dashboard** | Administrative view of reported incidents and case management. |
+
+### 5. Traffic Hardware Simulation
+
+| Screenshot | Description |
+|---|---|
+| **Wokwi Traffic Light Simulation & Vehicle Detection** | Side-by-side demonstration of AI-based vehicle detection and the corresponding simulated traffic signal operation in Wokwi.</text>
+
 ## 👩‍💻 Developer
 
 **Samriddhi Saxena**
