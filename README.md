@@ -174,28 +174,28 @@ The following screenshots showcase the ITMSAI application, including its traffic
 
 <table>
 <tr>
-<td align="center"><strong>Home Dashboard</strong><br><img src="assets/v3/01-home-dashboard.png" width="420" alt="Home Dashboard"></td>
-<td align="center"><strong>ANPR – Image Upload</strong><br><img src="assets/v3/02-anpr-upload.png" width="420" alt="ANPR – Image Upload"></td>
+<td align="center"><strong>Home Dashboard</strong><br><img src="01-home-dashboard.png" width="420" alt="Home Dashboard"></td>
+<td align="center"><strong>ANPR – Image Upload</strong><br><img src="02-anpr-upload.png" width="420" alt="ANPR – Image Upload"></td>
 </tr>
 <tr>
-<td align="center"><strong>ANPR – Number Plate Recognition</strong><br><img src="assets/v3/03-anpr-recognition.png" width="420" alt="ANPR – Number Plate Recognition"></td>
-<td align="center"><strong>Cyber Crime – Report Submission</strong><br><img src="assets/v3/04-crime-report-form.png" width="420" alt="Cyber Crime – Report Submission"></td>
+<td align="center"><strong>ANPR – Number Plate Recognition</strong><br><img src="03-anpr-recognition.png" width="420" alt="ANPR – Number Plate Recognition"></td>
+<td align="center"><strong>Cyber Crime – Report Submission</strong><br><img src="04-crime-report-form.png" width="420" alt="Cyber Crime – Report Submission"></td>
 </tr>
 <tr>
-<td align="center"><strong>Cyber Crime – My Complaints</strong><br><img src="assets/v3/05-my-complaints.png" width="420" alt="Cyber Crime – My Complaints"></td>
-<td align="center"><strong>Cyber Crime – Complaint Details & Timeline</strong><br><img src="assets/v3/06-complaint-details.png" width="420" alt="Cyber Crime – Complaint Details & Timeline"></td>
+<td align="center"><strong>Cyber Crime – My Complaints</strong><br><img src="05-my-complaints.png" width="420" alt="Cyber Crime – My Complaints"></td>
+<td align="center"><strong>Cyber Crime – Complaint Details & Timeline</strong><br><img src="06-complaint-details.png" width="420" alt="Cyber Crime – Complaint Details & Timeline"></td>
 </tr>
 <tr>
-<td align="center"><strong>Cyber Crime Hub – City News</strong><br><img src="assets/v3/07-city-news.png" width="420" alt="Cyber Crime Hub – City News"></td>
-<td align="center"><strong>User Profile & Account Settings</strong><br><img src="assets/v3/08-my-account.png" width="420" alt="User Profile & Account Settings"></td>
+<td align="center"><strong>Cyber Crime Hub – City News</strong><br><img src="07-city-news.png" width="420" alt="Cyber Crime Hub – City News"></td>
+<td align="center"><strong>User Profile & Account Settings</strong><br><img src="08-my-account.png" width="420" alt="User Profile & Account Settings"></td>
 </tr>
 <tr>
-<td align="center"><strong>Administrator Dashboard</strong><br><img src="assets/v3/09-admin-dashboard.png" width="420" alt="Administrator Dashboard"></td>
-<td align="center"><strong>AI Traffic Control & Wokwi Signal Status</strong><br><img src="assets/v3/10-traffic-control.png" width="420" alt="AI Traffic Control & Wokwi Signal Status"></td>
+<td align="center"><strong>Administrator Dashboard</strong><br><img src="09-admin-dashboard.png" width="420" alt="Administrator Dashboard"></td>
+<td align="center"><strong>AI Traffic Control & Wokwi Signal Status</strong><br><img src="10-traffic-control.png" width="420" alt="AI Traffic Control & Wokwi Signal Status"></td>
 </tr>
 <tr>
-<td align="center"><strong>ANPR – Video Detection Results</strong><br><img src="assets/v3/11-anpr-video-results.png" width="420" alt="ANPR – Video Detection Results"></td>
-<td align="center"><strong>Wokwi Simulation & Vehicle Detection</strong><br><img src="assets/v3/12-wokwi-vehicle-detection.png" width="420" alt="Wokwi Simulation & Vehicle Detection"></td>
+<td align="center"><strong>ANPR – Video Detection Results</strong><br><img src="11-anpr-video-results.png" width="420" alt="ANPR – Video Detection Results"></td>
+<td align="center"><strong>Wokwi Simulation & Vehicle Detection</strong><br><img src="12-wokwi-vehicle-detection.png" width="420" alt="Wokwi Simulation & Vehicle Detection"></td>
 </tr>
 </table>
 
