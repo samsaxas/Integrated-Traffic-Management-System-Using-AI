@@ -170,45 +170,35 @@ Screenshots and demonstrations from the three development stages will be maintai
 
 ## Screenshots & Application Preview
 
-The following screenshots showcase the original ITMSAI application, its interfaces, AI-powered features, traffic management dashboard and Wokwi-based hardware simulation.
+The following screenshots showcase the ITMSAI application, including its traffic management, ANPR, Cyber Crime Hub, administrator features and Wokwi-based traffic-light simulation.
 
-### 1. Application Interface
+<table>
+<tr>
+<td align="center"><strong>Home Dashboard</strong><br><img src="assets/v3/01-home-dashboard.png" width="420" alt="Home Dashboard"></td>
+<td align="center"><strong>ANPR – Image Upload</strong><br><img src="assets/v3/02-anpr-upload.png" width="420" alt="ANPR – Image Upload"></td>
+</tr>
+<tr>
+<td align="center"><strong>ANPR – Number Plate Recognition</strong><br><img src="assets/v3/03-anpr-recognition.png" width="420" alt="ANPR – Number Plate Recognition"></td>
+<td align="center"><strong>Cyber Crime – Report Submission</strong><br><img src="assets/v3/04-crime-report-form.png" width="420" alt="Cyber Crime – Report Submission"></td>
+</tr>
+<tr>
+<td align="center"><strong>Cyber Crime – My Complaints</strong><br><img src="assets/v3/05-my-complaints.png" width="420" alt="Cyber Crime – My Complaints"></td>
+<td align="center"><strong>Cyber Crime – Complaint Details & Timeline</strong><br><img src="assets/v3/06-complaint-details.png" width="420" alt="Cyber Crime – Complaint Details & Timeline"></td>
+</tr>
+<tr>
+<td align="center"><strong>Cyber Crime Hub – City News</strong><br><img src="assets/v3/07-city-news.png" width="420" alt="Cyber Crime Hub – City News"></td>
+<td align="center"><strong>User Profile & Account Settings</strong><br><img src="assets/v3/08-my-account.png" width="420" alt="User Profile & Account Settings"></td>
+</tr>
+<tr>
+<td align="center"><strong>Administrator Dashboard</strong><br><img src="assets/v3/09-admin-dashboard.png" width="420" alt="Administrator Dashboard"></td>
+<td align="center"><strong>AI Traffic Control & Wokwi Signal Status</strong><br><img src="assets/v3/10-traffic-control.png" width="420" alt="AI Traffic Control & Wokwi Signal Status"></td>
+</tr>
+<tr>
+<td align="center"><strong>ANPR – Video Detection Results</strong><br><img src="assets/v3/11-anpr-video-results.png" width="420" alt="ANPR – Video Detection Results"></td>
+<td align="center"><strong>Wokwi Simulation & Vehicle Detection</strong><br><img src="assets/v3/12-wokwi-vehicle-detection.png" width="420" alt="Wokwi Simulation & Vehicle Detection"></td>
+</tr>
+</table>
 
-| Screenshot | Description |
-|---|---|
-| [**Home Page**](<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b91fc52f-f093-48b5-962a-82fcd39d76d8" />)
- | Main application dashboard and navigation. |
-| **User Authentication** | Login and registration interface. |
-
-### 2. AI-Based Traffic Management
-
-| Screenshot | Description |
-|---|---|
-| **Traffic Control Dashboard** | Traffic monitoring dashboard with live vehicle detection and traffic statistics. |
-| **Vehicle Detection & Lane Analysis** | AI-based vehicle detection, lane identification and vehicle counting. |
-| **Adaptive Traffic Signal Control** | Dynamic traffic signal management based on lane-wise traffic conditions. |
-| **Lane Configuration** | Automatic lane proposals and manual lane adjustment. |
-
-### 3. Automatic Number Plate Recognition (ANPR)
-
-| Screenshot | Description |
-|---|---|
-| **ANPR Dashboard** | Interface for uploading and analysing vehicle images and videos. |
-| **Number Plate Detection & Recognition** | Detected number plates with recognised registration numbers. |
-
-### 4. Cyber Crime Hub
-
-| Screenshot | Description |
-|---|---|
-| **Citizen Crime Reporting** | Interface for submitting complaints and uploading evidence. |
-| **Complaint Management** | Complaint tracking and case status management. |
-| **Administrator Dashboard** | Administrative view of reported incidents and case management. |
-
-### 5. Traffic Hardware Simulation
-
-| Screenshot | Description |
-|---|---|
-| **Wokwi Traffic Light Simulation & Vehicle Detection** | Side-by-side demonstration of AI-based vehicle detection and the corresponding simulated traffic signal operation in Wokwi.</text>
 
 ## 👩‍💻 Developer
 
